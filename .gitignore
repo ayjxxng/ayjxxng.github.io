@@ -1,0 +1,7 @@
+# working artifacts (not part of the site)
+preview_*.png
+FINAL_*.png
+crop_review.jpg
+cv_page*.png
+*.aux
+*.log
