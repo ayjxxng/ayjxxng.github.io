@@ -236,3 +236,7 @@ a.ku:hover { color: #6e1622; border-bottom-color: #6e1622; }
   .tl__head { flex-direction: column; gap: 0; }
   .tl__when { white-space: normal; }
 }
+
+/* Patents & software item lists */
+.iplist { margin: 2px 0 0; padding-left: 1.15em; list-style: circle; }
+.iplist li { margin: 3px 0; padding: 0; border-bottom: none; }
